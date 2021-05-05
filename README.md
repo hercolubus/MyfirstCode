@@ -19,15 +19,35 @@ Se deben descargar e instalar los siguientes aplicativos:
 - Instalación y configuración de [Git](https://git-scm.com/downloads)
 
    Una vez instalado se debe ejecutar en una consola la linea de comando: git version
-
+   ```shell
+    > $ git version
+    git version 2.31.1
+    ```
 - Instalación y configuración de [Azure Cli](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli)
 
-  Una vez instalado se debe ejecutar el comando: az login el cual abrira un browser solicitando el nombre de usuario y contraseña
+Una vez instalado se debe ejecutar el comando: az login el cual abrira un browser solicitando el nombre de usuario y contraseña
+
+```shell
+
+> $ az login                                                                                                                                                                                    [±master ✓]
+The default web browser has been opened at https://login.microsoftonline.com/common/oauth2/authorize. Please continue the login in the web browser. If no web browser is available or if the web browser fails to open, use device code flow with `az login --use-device-code`.
+You have logged in. Now let us find all the subscriptions to which you have access...
+[
+
+```
+
+
 
 - Instalación de [Terraform](https://www.terraform.io/downloads.html)
 
-  Se debe descomprimir el archivo y el ejecutable se debe mover al directorio system32
-  
+  Se debe descomprimir el archivo y el ejecutable se debe mover al directorio system32, luego validar la correcta instalacion  ejecutando en una terminal:
+
+  ```shell
+    > $ terraform version
+    Terraform v0.15.1
+    on darwin_amd64
+  ```
+
 - Instalación de algún IDE [Atom](https://atom.io)
 
   Se debe instar normalmente doble click a aceptar las condiciones
