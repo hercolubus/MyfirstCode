@@ -17,9 +17,20 @@ El proposito de este laboratorio es crear infrastrutura en azure a traves de tem
 Se deben descargar e instalar los siguientes aplicativos:
 
 - Instalación y configuración de [Git](https://git-scm.com/downloads)
-- Instalación y configuración de [Azure Cli](https://git-scm.com/downloads)
+
+   Una vez instalado se debe ejecutar en una consola la linea de comando: git version
+
+- Instalación y configuración de [Azure Cli](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli)
+
+  Una vez instalado se debe ejecutar el comando: az login el cual abrira un browser solicitando el nombre de usuario y contraseña
+
 - Instalación de [Terraform](https://www.terraform.io/downloads.html)
+
+  Se debe descomprimir el archivo y el ejecutable se debe mover al directorio system32
+  
 - Instalación de algún IDE [Atom](https://atom.io)
+
+  Se debe instar normalmente doble click a aceptar las condiciones
 
 
 ## Configuración
