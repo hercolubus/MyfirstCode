@@ -5,7 +5,7 @@
 
 ## Requisitos
 
-Se deben instalar los siguientes aplicativos
+Se deben descargar e instalar los siguientes aplicativos:
 
 - Instalación y configuración de [Git](https://git-scm.com/downloads)
 - Instalación y configuración de [Azure Cli](https://git-scm.com/downloads)
@@ -21,6 +21,13 @@ Se debe clonar el siguiente [repositorio](hercolubus/MyfirstCode.git)
 mkdir Repo
 cd Repo
 git clone git@github.com:hercolubus/MyfirstCode.git
+
+Cloning into 'MyfirstCode'...
+remote: Enumerating objects: 4, done.
+remote: Counting objects: 100% (4/4), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (4/4), done.
 
 ```
 Una vez clonado el repositorio se debe ingresar al directorio creado y editar el archivo variables.tf para cambiar los valores de las variables.
