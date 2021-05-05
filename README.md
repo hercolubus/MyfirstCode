@@ -6,8 +6,8 @@
 
 ## Alcance
 
-El proposito de este laboratorio es crear infrastrutura en azure a traves de template de terraform en esa ocasion hacuendo
- uso de las  creadenciales de AZURE atraves de az cli
+El proposito de este laboratorio es crear infraestructura en azure a traves de template de terraform en esa ocasion haciendo
+ uso de las  credenciales de AZURE a traves de az cli
 
 
 <img src="https://github.com/hercolubus/MyfirstCode/blob/master/Laboratorio1.png" height="500" width="900" ></img>
