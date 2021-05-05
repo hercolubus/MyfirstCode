@@ -1,5 +1,5 @@
 
-<img src="https://github.com/hercolubus/MyfirstCode/blob/master/dxc%20image.png" height="150" width="900" ></img>
+<img src="https://github.com/hercolubus/MyfirstCode/blob/master/dxc%20image.png" height="130" width="900" ></img>
 
 ![DXC](https://github.com/dxc-technology/DXC-Industrialized-AI-Starter/blob/master/dxc%20image.png)
 
