@@ -4,14 +4,14 @@
 
 Se deben instalar los siguientes aplicativos
 
-- Instalación y configuración de Git
-- Instalación y configuración de Azure Cli
-- Instalación de Terraform
-- Instalación de algún IDE (atom)
+- Instalación y configuración de [Git](https://git-scm.com/downloads)
+- Instalación y configuración de [Azure Cli](https://git-scm.com/downloads)
+- Instalación de [Terraform](https://www.terraform.io/downloads.html)
+- Instalación de algún IDE [Atom](https://atom.io)
 
 
 ## Configuración
-Se debe clonar el siguiente repositorio: git@github.com:hercolubus/MyfirstCode.git
+Se debe clonar el siguiente [repositorio](hercolubus/MyfirstCode.git)
 
 
 ```shell
